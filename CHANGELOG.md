@@ -4,8 +4,8 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [0.1.0] - 2017-XX-XX
+## [1.0.0] - 2019-02-21
 
-### This is the first release of *Unity Package \<Your package name\>*.
+### This is the first release of *nuget.moq*.
 
-*Short description of this release*
+- Imported version 4.0.0.0 of the package from nuget.
