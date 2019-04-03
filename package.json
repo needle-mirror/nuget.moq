@@ -1,0 +1,12 @@
+{
+	"displayName": "Moq",
+	"name": "nuget.moq",
+	"version": "0.1.8-preview",
+	"unity": "2018.3",
+	"description": "Moq is the most popular and friendly mocking framework for .NET. https://www.nuget.org/packages/Moq/4.8.2",
+	"keywords": ["test", "mock", "mocking"],
+	"category": "Libraries",
+	"dependencies": {
+		"nuget.castle-core": "0.1.5-preview"
+	}
+}
