@@ -1,4 +1,7 @@
-# Moq
-https://www.nuget.org/packages/Moq/4.8.2
+This package wraps the Moq DLLs.
 
-Version 4.8.2
+# Moq
+
+Unity Package for the [Moq library](http://moq.github.io/moq4/)
+
+This package includes the DLL version of Moq Version: 4.18.2.

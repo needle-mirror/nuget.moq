@@ -1,0 +1,26 @@
+{
+  "ErrorExceptions": [
+    {
+      "ValidationTest": "Manifest Validation",
+      "ExceptionMessage": "In package.json, \"name\" needs to start with one of these approved company names: com.unity., com.autodesk., com.havok., com.ptc.. Read more about this error and potential solutions at https://docs.unity3d.com/Packages/com.unity.package-validation-suite@latest/index.html?preview=1&subfolder=/manual/manifest_validation_error.html#name-needs-to-start-with-one-of-these-approved-company-names",
+      "PackageVersion": "2.0.0-exp.2"
+    }
+  ],
+  "WarningExceptions": [
+    {
+      "ValidationTest": "Restricted File Type Validation",
+      "ExceptionMessage": "/Runtime/Moq.dll should not be included in packages unless absolutely necessary. Please confirm that its inclusion is deliberate and intentional.",
+      "PackageVersion": "2.0.0-exp.2"
+    },
+    {
+      "ValidationTest": "Restricted File Type Validation",
+      "ExceptionMessage": "/Runtime/System.Runtime.CompilerServices.Unsafe.dll should not be included in packages unless absolutely necessary. Please confirm that its inclusion is deliberate and intentional.",
+      "PackageVersion": "2.0.0-exp.2"
+    },
+    {
+      "ValidationTest": "Restricted File Type Validation",
+      "ExceptionMessage": "/Runtime/System.Threading.Tasks.Extensions.dll should not be included in packages unless absolutely necessary. Please confirm that its inclusion is deliberate and intentional.",
+      "PackageVersion": "2.0.0-exp.2"
+    }
+  ]
+}
