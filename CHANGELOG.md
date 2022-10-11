@@ -5,6 +5,18 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to
 [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.0.0-exp.5] - 2022-10-11
+
+- Fix Third Party license formatting.
+
+## [2.0.0-exp.4] - 2022-10-07
+
+- Add Third Party license notices for `System.Runtime.CompilerServices.Unsafe` and `System.Threading.Tasks.Extensions`.
+
+## [2.0.0-exp.3] - 2022-10-06
+
+- Fix link formatting in documentation.
+
 ## [2.0.0-exp.2] - 2022-08-10
 
 - Use 'Unity' as author name rather than 'Unity Technologies' to be grouped with other packages.

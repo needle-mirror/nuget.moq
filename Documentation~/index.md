@@ -8,5 +8,6 @@ Documentation for this Package is provided as links to the Moq Documentation.
 
 ### Documentation
 
-[Moq Main Page](http://moq.github.io/moq4/) [Moq Documentation](https://github.com/Moq/moq4/wiki/Quickstart)
-[Moq Source Code](https://github.com/moq/moq4)
+* [Moq Main Page](http://moq.github.io/moq4/) 
+* [Moq Documentation](https://github.com/Moq/moq4/wiki/Quickstart)
+* [Moq Source Code](https://github.com/moq/moq4)
