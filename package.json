@@ -2,7 +2,7 @@
   "name": "nuget.moq",
   "displayName": "Moq",
   "author": "Unity",
-  "version": "2.0.0-exp.6",
+  "version": "2.0.0-exp.7",
   "unity": "2020.3",
   "description": "Moq for use in Unity projects and Unity packages. Currently synced to version 4.18.2.",
   "keywords": [
@@ -11,18 +11,18 @@
     "mocking"
   ],
   "dependencies": {
-    "nuget.castle-core": "2.0.0-exp.2"
+    "nuget.castle-core": "2.0.0-pre.3"
   },
   "type": "library",
   "relatedPackages": {
-    "nuget.moq.tests": "2.0.0-exp.6"
+    "nuget.moq.tests": "2.0.0-exp.7"
   },
   "upmCi": {
-    "footprint": "acbd64ff30da119d2ce674ad068b8d4380c804a8"
+    "footprint": "1a2e3a66d12ce92ec0f0b4964f4de05170e95831"
   },
   "repository": {
     "url": "https://github.cds.internal.unity3d.com/unity/nuget.moq.git",
     "type": "git",
-    "revision": "7648f714b0e74331e6a4ed6351fa0379b5acb5db"
+    "revision": "fa111232924b68437099ff3876e643697b7c3b0f"
   }
 }
