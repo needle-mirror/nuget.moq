@@ -1,8 +1,10 @@
 {
   "name": "nuget.moq",
   "displayName": "Moq",
-  "author": "Unity",
-  "version": "2.0.0-exp.7",
+  "author": {
+    "name": "Unity"
+  },
+  "version": "2.0.0-pre.2",
   "unity": "2020.3",
   "description": "Moq for use in Unity projects and Unity packages. Currently synced to version 4.18.2.",
   "keywords": [
@@ -11,18 +13,21 @@
     "mocking"
   ],
   "dependencies": {
-    "nuget.castle-core": "2.0.0-pre.3"
+    "nuget.castle-core": "2.0.0-pre.4"
   },
   "type": "library",
   "relatedPackages": {
-    "nuget.moq.tests": "2.0.0-exp.7"
+    "nuget.moq.tests": "2.0.0-pre.2"
+  },
+  "_upm": {
+    "changelog": "- Added documentation on how to reference the included DLLs.\n- Upgrade `nuget.castle-core` to `2.0.0-pre.4`."
   },
   "upmCi": {
-    "footprint": "1a2e3a66d12ce92ec0f0b4964f4de05170e95831"
+    "footprint": "9cc74d6b29bc9338ea66d6082f8603b794ab86f0"
   },
   "repository": {
     "url": "https://github.cds.internal.unity3d.com/unity/nuget.moq.git",
     "type": "git",
-    "revision": "fa111232924b68437099ff3876e643697b7c3b0f"
+    "revision": "ede237f35690ee7395af74b32c8a5288c0d36ca3"
   }
 }

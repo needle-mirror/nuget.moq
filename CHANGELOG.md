@@ -5,6 +5,15 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to
 [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.0.0-pre.2] - 2023-01-25
+
+- Added documentation on how to reference the included DLLs.
+- Upgrade `nuget.castle-core` to `2.0.0-pre.4`.
+
+## [2.0.0-pre.1] - 2022-11-10
+
+- Bump version to `2.0.0-pre.1`.
+
 ## [2.0.0-exp.7] - 2022-11-02
 
 - Upgrade `nuget.castle-core` to `2.0.0-pre.3`.
