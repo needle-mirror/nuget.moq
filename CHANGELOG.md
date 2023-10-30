@@ -5,6 +5,12 @@ All notable changes to this package will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to
 [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2023-10-30
+
+- Upgraded Moq to version 4.18.2 (`System.Runtime.CompilerServices.Unsafe.dll` & `System.Threading.Tasks.Extensions.dll` are now included as dependencies).
+- Added package documentation.
+- Minimum supported Editor version is now 2020.3.
+
 ## [2.0.0-pre.2] - 2023-01-25
 
 - Added documentation on how to reference the included DLLs.

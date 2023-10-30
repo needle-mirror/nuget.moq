@@ -4,7 +4,7 @@
   "author": {
     "name": "Unity"
   },
-  "version": "2.0.0-pre.2",
+  "version": "2.0.0",
   "unity": "2020.3",
   "description": "Moq for use in Unity projects and Unity packages. Currently synced to version 4.18.2.",
   "keywords": [
@@ -13,21 +13,21 @@
     "mocking"
   ],
   "dependencies": {
-    "nuget.castle-core": "2.0.0-pre.4"
+    "nuget.castle-core": "2.0.0"
   },
   "type": "library",
   "relatedPackages": {
-    "nuget.moq.tests": "2.0.0-pre.2"
+    "nuget.moq.tests": "2.0.0"
   },
   "_upm": {
-    "changelog": "- Added documentation on how to reference the included DLLs.\n- Upgrade `nuget.castle-core` to `2.0.0-pre.4`."
+    "changelog": "- Upgraded Moq to version 4.18.2 (`System.Runtime.CompilerServices.Unsafe.dll` & `System.Threading.Tasks.Extensions.dll` are now included as dependencies).\n- Added package documentation.\n- Minimum supported Editor version is now 2020.3."
   },
   "upmCi": {
-    "footprint": "9cc74d6b29bc9338ea66d6082f8603b794ab86f0"
+    "footprint": "5512be69d1ecd6498c068162b48fbff22d6edda3"
   },
   "repository": {
     "url": "https://github.cds.internal.unity3d.com/unity/nuget.moq.git",
     "type": "git",
-    "revision": "ede237f35690ee7395af74b32c8a5288c0d36ca3"
+    "revision": "801d9cfab9a622c69ba0c41f26752a9812ab5dc2"
   }
 }
